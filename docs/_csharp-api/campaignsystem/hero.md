@@ -54,7 +54,7 @@ TODO
  | IsMercenary       | IsMercenary                   | `bool`                                                         | Is hero mercenary                          |       |
  | SpcDaysInLocation | SpcDaysInLocation             | `int`                                                          | TODO                                       |       |
  | private           | _health                       | `int`                                                          | Health                                     |       |
- | private           | _birthDay                     | [CampaignTime]()                                               | BearthDay                                  |       |
+ | private           | _birthDay                     | [CampaignTime]()                                               | BirthDay                                   |       |
  | private           | _deathDay                     | [CampaignTime]()                                               | Day of death                               |       |
  | private           | _power                        | `int`                                                          | Power                                      |       |
  | public            | VisitedSettlements            | `Dictionary<`[Settlement]()`, float>`                          | Visited settlements                        |       |
